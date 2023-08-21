@@ -1,0 +1,13 @@
+{
+  "entities": [
+    {
+      "type": "item",
+      "index": 1,
+      "owner": "kQCWaXAdYlJcPayZdeXOuQZ24u0-FJnSTaWMj8dTXrD5tYyW",
+      "content": {
+        "type": "full_snake",
+        "value": "https://s.getgems.io/nft/b/c/626a922e5e67c1f424154711/69/meta.json"
+      }
+    }
+  ]
+}
